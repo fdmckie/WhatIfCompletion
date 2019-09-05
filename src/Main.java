@@ -24,7 +24,7 @@ public class Main {
             System.out.println("The sum is = " + numSum + "*~");
             System.out.println();
         }
-        else if (numSum > 1000){
+        else if (numSum >= 1000){
             System.out.println("The sum is = " + numSum + "*");
             System.out.println();
         }
